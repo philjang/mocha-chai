@@ -8,13 +8,13 @@ function findMax(arr) {
     };
     return max;
 }
-console.log(findMax([1,3,2]));
-console.log(findMax([-1,-2,-3]));
-console.log(findMax(['1','3','2']));
-console.log(findMax());
-console.log(findMax('hello'));
-console.log(findMax(1,2));
-console.log(findMax(2));
-console.log(findMax([]));
+// console.log(findMax([1,3,2]));
+// console.log(findMax([-1,-2,-3]));
+// console.log(findMax(['1','3','2']));
+// console.log(findMax());
+// console.log(findMax('hello'));
+// console.log(findMax(1,2));
+// console.log(findMax(2));
+// console.log(findMax([]));
 
 module.exports = findMax;
